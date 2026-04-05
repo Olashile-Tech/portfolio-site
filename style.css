@@ -26,3 +26,8 @@ section {
   max-width: 800px;
   margin: auto;
 }
+section {
+  background: white;
+  margin: 20px;
+  border-radius: 10px;
+}
