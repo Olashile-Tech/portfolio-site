@@ -42,3 +42,17 @@ section {
   padding: 20px;
   border-radius: 10px;
 }
+section {
+  margin: 40px;
+}
+p {
+  font-size: 18px;
+}
+h1 {
+  font-size: 45px;
+  font-weight: bold;
+}
+.card:hover {
+  transform: scale(1.30);
+  transition: 0.3s;
+}
